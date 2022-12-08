@@ -45,7 +45,7 @@
 <a href="https://www.instagram.com/joy.meireles/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-joy meireles-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.tiktok.com/@devfros" target="_blank">
+<a href="https://www.tiktok.com/@cloudfros" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-joy meireles-05122A?style=flat&logo=tiktok"alt="tiktok"/>
 </p>
 
